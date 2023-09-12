@@ -5,6 +5,7 @@ body{
   margin: 20px;
   letter-spacing: 0.5px;
   background-color: rgb(249,246,239);
+  max-width: 650px;
 }
 
 h1, h2{
@@ -13,4 +14,9 @@ h1, h2{
 
 h1, p, ul, li{
   color: rgb(39,25,17);
+}
+
+
+.first{
+  font-style: italic;
 }
