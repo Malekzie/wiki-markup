@@ -1,2 +1,2 @@
-<h1>Cybersecurity</h1>
-<p>
+<h1>Jugger</h1>
+A larp-based sport played in multiple countries.
