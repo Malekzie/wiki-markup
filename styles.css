@@ -4,8 +4,13 @@ body{
   padding: auto;
   margin: 20px;
   letter-spacing: 0.5px;
+  background-color: rgb(249,246,239);
 }
 
 h1, h2{
   font-family: 'PT Sans Caption', sans-serif;
+}
+
+h1, p, ul, li{
+  color: rgb(39,25,17);
 }
