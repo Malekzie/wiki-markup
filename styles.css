@@ -4,3 +4,7 @@ body{
   padding: auto;
   margin: 20px;
 }
+
+h1, h2{
+  font-family: 'PT Sans Caption', sans-serif;
+}
